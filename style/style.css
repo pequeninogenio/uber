@@ -1,0 +1,16 @@
+*{margin: 0;
+padding: 0;}
+.altura{height: 80px;}
+.largura-uber{width: 80px;}
+.largura-inscrevase{
+    width: 80px;
+    height: 40px;
+}
+
+a{
+    color: white;
+}
+
+button a{
+    color: black;
+}
